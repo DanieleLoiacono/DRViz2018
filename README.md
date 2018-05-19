@@ -4,7 +4,7 @@ In this repository you can find the materials (slides, examples, data) used for 
 
 ## Slides
 
-## Notebooks
+* [Unit 1: Information, Introduction, and Design Framework](Unit1.pdf) 
 
 ## Datasets
 
