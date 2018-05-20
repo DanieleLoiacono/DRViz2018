@@ -6,7 +6,14 @@ In this repository you can find the materials (slides, examples, data) used for 
 
 * [Unit 1: Information, Introduction, and Design Framework](Unit1.pdf) 
 
+## Hands-on
+* [Introduction to Pandas](HO_Pandas.ipynb)
+* [Introduction to Matplotlib](HO_Matplotlib.ipynb)
+* [Introduction to Seaborn](HO_Seaborn.ipynb)
+
 ## Datasets
+* [Iris](data/iris.csv)
+* [Nations](data/nations.csv)
 
 ## Resources
 
