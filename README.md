@@ -5,6 +5,7 @@ In this repository you can find the materials (slides, examples, data) used for 
 ## Slides
 
 * [Unit 1: Information, Introduction, and Design Framework](Unit1.pdf) 
+* [Unit 2: Visualization Tools, Marks and Channels](Unit2.pdf)  
 
 ## Hands-on
 * [Introduction to Pandas](HO_Pandas.ipynb)
