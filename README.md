@@ -5,12 +5,17 @@ In this repository you can find the materials (slides, examples, data) used for 
 ## Slides
 
 * [Unit 1: Information, Introduction, and Design Framework](Unit1.pdf) 
-* [Unit 2: Visualization Tools, Marks and Channels](Unit2.pdf)  
+* [Unit 2: Visualization Tools, Marks and Channels](Unit2.pdf) 
+* [Unit 3: Guidelines, Tables, Spatial data, Networks and Trees](Unit3.pdf)
+* [Unit 4: Interactive Visualisation, Dashboards, Dealing with Complexit, and Validation](Unit4.pdf)
+
 
 ## Hands-on
 * [Introduction to Pandas](HO_Pandas.ipynb)
 * [Introduction to Matplotlib](HO_Matplotlib.ipynb)
 * [Introduction to Seaborn](HO_Seaborn.ipynb)
+* [Visualizing tables: Iris dataset](HO_Tables_Iris.ipynb)
+* [Visualizing tables: Titanic dataset](HO_Tables_Titanic.ipynb)
 
 ## Datasets
 * [Iris](data/iris.csv)
