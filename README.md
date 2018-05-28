@@ -16,10 +16,15 @@ In this repository you can find the materials (slides, examples, data) used for 
 * [Introduction to Seaborn](HO_Seaborn.ipynb)
 * [Visualizing tables: Iris dataset](HO_Tables_Iris.ipynb)
 * [Visualizing tables: Titanic dataset](HO_Tables_Titanic.ipynb)
+* [Visualizing spatial data: examples](HO_Spatial.ipynb)
+* [Visualizing networks: Les Miserable](HO_Spatial.ipynb)
 
 ## Datasets
 * [Iris](data/iris.csv)
 * [Nations](data/nations.csv)
+* [Titanic](data/titanic.csv)
+* [Peaks](data/peaks.csv)
+* [Les Miserables](data/lesmiserable.gml)
 
 ## Resources
 
