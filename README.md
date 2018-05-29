@@ -18,6 +18,8 @@ In this repository you can find the materials (slides, examples, data) used for 
 * [Visualizing tables: Titanic dataset](HO_Tables_Titanic.ipynb)
 * [Visualizing spatial data: examples](HO_Spatial.ipynb)
 * [Visualizing networks: Les Miserable](HO_Spatial.ipynb)
+* [Examples of interactive visualisation with Bokeh](HO_Interactive.ipynb)
+* [Dealing with complexity: Motor Trend Car Road Tests](HO_Complexity.pynb)
 
 ## Datasets
 * [Iris](data/iris.csv)
@@ -25,6 +27,7 @@ In this repository you can find the materials (slides, examples, data) used for 
 * [Titanic](data/titanic.csv)
 * [Peaks](data/peaks.csv)
 * [Les Miserables](data/lesmiserable.gml)
+* [Motor Trend Car Road Tests](data/mtcars.csv)
 
 ## Resources
 
